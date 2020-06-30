@@ -1,4 +1,6 @@
 # LERC - Limited Error Raster Compression
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphax777%2Flerc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphax777%2Flerc?ref=badge_shield)
+
 
 ## What is LERC?
 
@@ -117,3 +119,6 @@ See the License for the specific language governing permissions and limitations 
 
 A copy of the license is available in the repository's [LICENSE](./LICENSE) file.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphax777%2Flerc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphax777%2Flerc?ref=badge_large)
